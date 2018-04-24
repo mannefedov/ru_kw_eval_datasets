@@ -14,11 +14,13 @@ Sources of data:
 * https://cyberleninka.ru/
 
 Every line in files represent one document. For the RussiaToday, NG and Habrahabr the json line has following structure:
-```{'content': "Text of the document here', 'title': 'Title of the document here', 'summary': 'short summary of the document here', 'keywords': ['key', 'words', 'here']}
+```python
+{'content': "Text of the document here', 'title': 'Title of the document here', 'summary': 'short summary of the document here', 'keywords': ['key', 'words', 'here']}
 ```
 
 For Cyberleninka files the structure of the json is this:
-```{'content': "Text of the document here', 'title': 'Title of the document here', 'abstract': 'abstract of the document here', 'keywords': ['key', 'words', 'here']}
+```python
+{'content': "Text of the document here', 'title': 'Title of the document here', 'abstract': 'abstract of the document here', 'keywords': ['key', 'words', 'here']}
 ```
 
 Cyberleninka documents are pdf converted to text with pdf2text so may be a bunch of mistakes and random linebreaks there.
