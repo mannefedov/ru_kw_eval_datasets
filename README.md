@@ -23,4 +23,4 @@ For **Cyberleninka** files the structure of the json is this:
 {'content': "Text of the document here', 'title': 'Title of the document here', 'abstract': 'abstract of the document here', 'keywords': ['key', 'words', 'here']}
 ```
 
-Cyberleninka documents are pdf converted to text with pdf2text so may be a bunch of mistakes and random linebreaks there.
+Cyberleninka documents are pdf converted to text with pdf2text so there may be a bunch of mistakes and random linebreaks there.
