@@ -28,3 +28,5 @@ For **Cyberleninka** files the structure of the json is this:
 ```
 
 Cyberleninka documents are pdfs converted to raw texts with pdf2text so there may be a bunch of mistakes and random linebreaks. Also note that the keywords were extracted from the documents **manually** (hell, that was boring!) after conversion and I could easily skipped something. Please inform me if you find undeleted keywords inside the content field.
+
+My e-mail: manefedov26@gmail.com
