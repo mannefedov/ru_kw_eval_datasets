@@ -13,14 +13,14 @@ Sources of data:
 
 * https://cyberleninka.ru/
 
-Every line in files represent one document. For the **RussiaToday, NG** and **Habrahabr** the json line has following structure:
+Every line in files represents one document. For the **RussiaToday, NG** and **Habrahabr** the json line has the following structure:
 ```python
 {'url':'https://url.here', content': 'Text of the document here', 'title': 'Title of the document here', 
  
 'summary': 'short summary of the document here', 'keywords': ['key', 'words', 'here']}
 ```
 
-For **Cyberleninka** files the structure of the json is this:
+For **Cyberleninka** files the structure of the json is:
 ```python
 {'url':'https://url.here', 'content': 'Text of the document here', 'title': 'Title of the document here',
 
