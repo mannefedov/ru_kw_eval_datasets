@@ -60,7 +60,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
  
  <tr>
     <td>author</td>
-    <td><code itemprop="author">Mikhail Nefedov</code></td>
+    <td><code itemprop="author" itemscope itemtype="https://schema.org/Person">Mikhail Nefedov</code></td>
   </tr>
 </table>
 </div>
