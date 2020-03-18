@@ -57,5 +57,10 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     <td>description</td>
     <td><code itemprop="description">Datasets for evaluation of keyword extraction in Russian</code></td>
   </tr>
+ 
+ <tr>
+    <td>author</td>
+    <td><code itemprop="author">Mikhail Nefedov</code></td>
+  </tr>
 </table>
 </div>
