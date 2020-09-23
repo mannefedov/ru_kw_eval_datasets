@@ -43,7 +43,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>name</td>
-    <td><code itemprop="name">RuKWEval Dataset</code></td>
+    <td><code itemprop="name">Datasets for evaluation of keyword extraction in Russian</code></td>
   </tr>
   <tr>
     <td>url</td>
